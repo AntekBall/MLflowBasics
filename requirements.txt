@@ -1,0 +1,2 @@
+mlflow==2.2.2
+setuptools==63.4.3

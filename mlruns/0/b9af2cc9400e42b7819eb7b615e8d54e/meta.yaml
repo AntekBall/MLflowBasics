@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/b9af2cc9400e42b7819eb7b615e8d54e/artifacts
+end_time: 1753093802451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9af2cc9400e42b7819eb7b615e8d54e
+run_name: vaunted-gnat-507
+run_uuid: b9af2cc9400e42b7819eb7b615e8d54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753093799217
+status: 3
+tags: []
+user_id: antek
