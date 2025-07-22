@@ -12,8 +12,8 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/AntekBall/MLflowBasics.mlflow
 
 export MLFLOW_TRACKING_USERNAME=AntekBall 
 
-export MLFLOW_TRACKING_PASSWORD=ebd920bcec099ee101a640bb9c6d17163a3e7813
 
+<<<<<<< HEAD
 ```
 
 mlflowlearn-bucket
@@ -47,3 +47,7 @@ aws configure
 mlflow server -h 0.0.0.0 --default-artifact-root s3://mlflowlearn-bucket
 
 export MLFLOW_TRACKING_URI=http://ec2-18-196-101-59.eu-central-1.compute.amazonaws.com:5000/
+=======
+
+```
+>>>>>>> d776f919af1e4af7bdfc08e3d049279f466f7f88
